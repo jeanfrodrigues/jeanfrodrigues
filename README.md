@@ -1,7 +1,7 @@
 <div>
   <a href="https://beacons.ai/jeanfrodrigues">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeanfrodrigues&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&border_radius=3" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanfrodrigues&layout=compact&langs_count=10&theme=gruvbox&hide_border=true&border_radius=3" />
+  <img width="42%" height="150em" src="https://github-readme-stats.vercel.app/api?username=jeanfrodrigues&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&border_radius=3" />
+  <img width="50%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanfrodrigues&layout=compact&langs_count=10&theme=gruvbox&hide_border=true&border_radius=3" />
 </div>
 
 
